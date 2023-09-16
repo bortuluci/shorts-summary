@@ -3,9 +3,6 @@
 <p align="center">
 O Shorts Summary é uma aplicação web que realiza resumos de vídeos Shorts do Youtube através de IA. <br/>
 </p>
-<p align="center">Visite o projeto online --> (https://bortuluci.github.io/habit-tracker/)</p>
-
-<br>
 
 <p align="center">
   <img alt="projeto shorts summary" src="https://github.com/bortuluci/shorts-summary/blob/main/shorts-summary-example.png?raw=true" width="100%">
